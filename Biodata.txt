@@ -1,0 +1,4 @@
+Nama     : Septian Geradus
+Nim      : D0224327
+Kelas    : Informatika C
+Angkatan : 2024
