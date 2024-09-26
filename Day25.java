@@ -1,8 +1,8 @@
 public class Day25 {
 	public static void main(String[] args) {
 		
-		Character huruf = 'A';
+		Double angka = 1222.3;
 		
-		System.out.println("huruf = " + huruf);
+		System.out.println("angka: " + angka);
 	}
 }
